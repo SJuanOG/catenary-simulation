@@ -1,11 +1,3 @@
-
-
-----------------------
-
-Finally, the numeric result is compared to the analytic one and an animation of the behavior for different distance between tips is shown.
-
-In order to run it you can open it with Google Colaboratory from GitHub or dowload and run it in your local machine usin Jupyter notebook.
-
 # Catenary Simulation
 
 This repository contains a Jupyter Notebook-based Python program that performs a simulation and numerical analysis of catenary curves, along with visualization and animations of the results. The script uses various numerical methods to calculate the shape of a catenary curve and compares it with the real function.
